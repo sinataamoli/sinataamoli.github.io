@@ -1,12 +1,7 @@
 {
   "basics": {
     "name": "Sina Taamoli",
-    // "label": ,
-    // "image": ,
     "email": "sina.taamoli@email.ucr.edu",
-    // "phone": ,
-    // "url": ,
-    "summary": "",
     "location": {
       "address": "900 University Ave",
       "postalCode": "CA 92521",
