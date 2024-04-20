@@ -13,13 +13,16 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
+I am a Ph.D. student in Observational extragalactic astrophysics. I am interested in data-driven approaches to extracting information from multiwavelength photometric catalogs. I am working on environmental dependence of galaxy properties and extracting different components of Cosmic-Web in large photometric/spectroscopic surveys.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently using COSMOS multiwavelength catalogs, as well as pattern detection algorithms to extract structural components of cosmic web and relate the galaxies physical properties, including their mass and their star-formation rate, to their environment. I am also a teaching assistant for various courses in both physics and engineering at the University of California, Riverside (UCR). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I use the photometric and spectroscopic data from the largest ground and space based telescopes such as W. M. Keck Observatory, Subaru Telescope, Spitzer Space Telescope, Hubble Space Telescope and hopefully within few years I get the chance to observe with Thirty Meter Telescope, James Webb Space Telescope, and WFIRST.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I love traveling, backpacking, hiking, swimming, watching old movies, learning and teaching math, physics, astronomy, statistical learning, scientific visualization, and almost anything related to coding!
+
+Any code related material could also be found in my github page [subreddit](http://reddit.com)
