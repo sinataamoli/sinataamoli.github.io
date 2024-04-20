@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student @ UCR
+subtitle: PhD student @ University of California, Riverside
 
 profile:
   align: right
