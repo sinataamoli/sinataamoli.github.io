@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student @ <a href='#'>Affiliations</a>
+subtitle: PhD student @ UCR
 
 profile:
   align: right
@@ -13,7 +13,7 @@ news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-I am a Ph.D. student in Observational extragalactic astrophysics. I am interested in data-driven approaches to extracting information from multiwavelength photometric catalogs. I am working on environmental dependence of galaxy properties and extracting different components of Cosmic-Web in large photometric/spectroscopic surveys.
+I am a Ph.D. student in Observational extragalactic astrophysics. I am interested in data-driven approaches to extracting information from multiwavelength photometric catalogs. I am working on environmental dependence of galaxy properties and extracting different components of Cosmic-Web in large photometric and spectroscopic surveys.
 
 I am currently using COSMOS multiwavelength catalogs, as well as pattern detection algorithms to extract structural components of cosmic web and relate the galaxies physical properties, including their mass and their star-formation rate, to their environment. I am also a teaching assistant for various courses in both physics and engineering at the University of California, Riverside (UCR). 
 
