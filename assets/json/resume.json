@@ -42,8 +42,8 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
+      "institution": "University of California, Riverside",
+      "location": "Riverside, California",
       "url": "https://www.uzh.ch/",
       "area": "Software Development",
       "studyType": "PhD",
@@ -149,7 +149,7 @@
       "icon": ""
     },
     {
-      "language": "English",
+      "language": "Persian",
       "fluency": "Native speaker",
       "icon": ""
     }
@@ -160,7 +160,8 @@
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Large Scale Structures",
-        "Applications of Machine Learning in Astronomy"
+        "Applications of Machine Learning in Astronomy",
+        "Galaxy Evolution"
       ]
     }
   ],
@@ -174,7 +175,7 @@
   "projects": [
     {
       "name": "Environmental Dependence of Galaxy properties",
-      "summary": "",
+      "summary": "smthg",
       "highlights": ["Galaxy evolution", "Large Scale Structures"],
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
