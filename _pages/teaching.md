@@ -2,9 +2,9 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses that I have been instructing as Teaching Assistant
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 Introduction to Data Science
