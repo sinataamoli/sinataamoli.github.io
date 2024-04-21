@@ -17,7 +17,7 @@ I am currently a Ph.D. student in observational extragalactic Astronomy. My rese
 
 Currently, I am employing both newly developed pattern detection algorithms and traditional methods to extract and identify different components of Cosmic Web (e.g., filaments, clusters) and assess their influence on galaxy properties, including but not limited to star formation activity, stellar mass, and morphology. 
 
-In addition to my primary research, I am an active member of the [**Euclid consortium**](https://www.euclid-ec.org/) and spectroscopy of high redshift protoclusters in the Euclid Deep Fields as a part of the [**Hawaii Two-0 (H20)**](https://project.ifa.hawaii.edu/h20/) survey. I am also interested in the very first stages of Astronomical research, which is data acquisition, data reduction, photometry technics and finally catalog making. I have been involved in more than 20 observing runs with Keck Telescope, and recently with JWST through "BEASTS in the bubbles" project.
+In addition to my primary research, I am an active member of the [Euclid consortium](https://www.euclid-ec.org/) and spectroscopy of high redshift protoclusters in the Euclid Deep Fields as a part of the [Hawaii Two-0 (H20)](https://project.ifa.hawaii.edu/h20/) survey. I am also interested in the very first stages of Astronomical research, which is data acquisition, data reduction, photometry technics and finally catalog making. I have been involved in more than 20 observing runs with Keck Telescope, and recently with JWST through "BEASTS in the bubbles" project.
 
 I began my academic journey with a BSc in Mechanical Engineering and Physics in 2017, followed by an MSc in Physics in 2019, both from Sharif University of Technology.
 
