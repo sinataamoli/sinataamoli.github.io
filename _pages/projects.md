@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: Projects and collaborations
-nav: true
+nav: false
 nav_order: 3
 display_categories: [Collaborations, Outreach]
 horizontal: false
