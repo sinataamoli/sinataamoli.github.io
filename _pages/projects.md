@@ -5,7 +5,7 @@ permalink: /projects/
 description: Projects
 nav: true
 nav_order: 3
-display_categories: [Collaborations, Outreach]
+display_categories: [Personal, Collaborations, Outreach]
 horizontal: true
 ---
 
