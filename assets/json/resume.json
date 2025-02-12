@@ -32,6 +32,7 @@
       "institution": "University of California, Riverside",
       "location": "Riverside, California",
       "url": "https://profiles.ucr.edu/app/home/profile/staam001",
+      "icon": "fa-university",
       "area": "Physics",
       "studyType": "PhD",
       "startDate": "2020-09-01",
@@ -69,15 +70,6 @@
       "startDate": "2024-06-24",
       "endDate": "2024-06-28",
       "summary": "Taught Python and Introduction to Data Science to local STEM high school students, through a six-week STEM summer camp, funded through a NASA educational grant"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
     }
   ],
   "skills": [
