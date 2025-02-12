@@ -108,7 +108,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  The best way to reach me is via email: sina.taamoli@email.ucr.edu
+  The best way to reach me is via email: taamolisina@gmail.com
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -593,7 +593,6 @@ jsonresume:
   - education
   - publications
   - projects
-  - outreach
   - awards
   - certificates
   - skills
