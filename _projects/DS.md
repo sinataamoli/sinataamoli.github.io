@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Machine Learning
+title: Data Science
 description: 
-img: assets/img/ML.jpg
+img: assets/img/DS.jpg
 importance: 1
 category: teaching
 related_publications: true
