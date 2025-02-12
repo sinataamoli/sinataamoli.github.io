@@ -11,9 +11,9 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "X",
+        "username": "Sina Taamoli",
+        "url": "https://x.com/SinaTml"
       }
     ]
   },
@@ -30,14 +30,22 @@
   ],
   "Outreach": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "University of California, Riverside",
+      "location": "Riverside, California",
+      "position": "Instructor- Data Analysis",
+      "url": "https://insideucr.ucr.edu/stories/2023/08/14/new-teaching-technology-opens-world-possibilities",
+      "startDate": "2023-06-15",
+      "endDate": "2023-06-20",
+      "summary": "Taught Data Analysis and foundations of Machine Learning to local STEM high school students, through a six-week STEM summer camp, funded through a NASA educational grant"
+    },
+    {
+      "organization": "University of California, Riverside",
+      "location": "Riverside, California",
+      "position": "Instructor- Python Programming",
+      "url": "https://stemsummercamp.ucr.edu/camp",
+      "startDate": "2024-06-24",
+      "endDate": "2024-06-28",
+      "summary": "Taught Python and Introduction to Data Science to local STEM high school students, through a six-week STEM summer camp, funded through a NASA educational grant"
     }
   ],
   "education": [
@@ -69,13 +77,6 @@
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
     }
   ],
   "skills": [
