@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Euclid-Early Release Observations (ERO)
+title: Euclid-Early Release Observations
 description: 
 img: assets/img/euclid.jpg
 importance: 2
