@@ -11,7 +11,7 @@ profile:
   more_info: 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 I am a Physics Ph.D. student, focused on observational extragalactic astronomy, specializing in data-driven approaches and machine learning techniques to explore galaxy evolution using multiwavelength photometric catalogs and large spectroscopic surveys (e.g., COSMOS, COSMOS-Web, H20). My research focuses on analysis of Large Scale Structures, galaxy environments, and examining their role in shaping galaxy evolution.
 

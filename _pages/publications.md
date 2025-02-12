@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Selected publications
 description: For the complete list of publications please check my [Google Scholar page](https://scholar.google.com/citations?user=0n9jPPsAAAAJ&hl=en)
 nav: true
-nav_order: 2
+nav_order: 4
 ---
 
 <!-- _pages/publications.md -->

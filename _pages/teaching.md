@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Courses that I have been instructing as Teaching Assistant
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 Introduction to Data Science

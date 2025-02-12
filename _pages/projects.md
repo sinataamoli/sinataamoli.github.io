@@ -2,11 +2,11 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Projects and collaborations
-nav: false
+description: Projects
+nav: true
 nav_order: 3
 display_categories: [Collaborations, Outreach]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
