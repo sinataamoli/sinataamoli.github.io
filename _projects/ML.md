@@ -4,7 +4,7 @@ title: Machine Learning
 description: 
 img: assets/img/ML.jpg
 importance: 1
-category: teaching
+category: Teaching
 related_publications: true
 ---
 

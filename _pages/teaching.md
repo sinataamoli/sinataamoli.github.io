@@ -5,7 +5,7 @@ permalink: /teaching/
 description: Courses that I have been instructing as a Teaching Assistant.
 nav: true
 nav_order: 5
-display_categories: [teaching, Outreach]
+display_categories: [Teaching, Outreach]
 horizontal: true
 ---
 <!-- pages/projects.md -->

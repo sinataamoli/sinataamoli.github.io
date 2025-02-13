@@ -4,7 +4,7 @@ title: Data Science
 description: 
 img: assets/img/DS.jpg
 importance: 1
-category: teaching
+category: Teaching
 related_publications: true
 ---
 

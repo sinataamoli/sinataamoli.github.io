@@ -30,9 +30,9 @@
   "education": [
     {
       "institution": "University of California, Riverside",
-      "location": "Riverside, California",
+      "location": "Riverside, CA",
       "url": "https://profiles.ucr.edu/app/home/profile/staam001",
-      "icon": "fa-university",
+      "icon": "fa-solid fa-university",
       "area": "Physics",
       "studyType": "PhD",
       "startDate": "2020",
@@ -43,6 +43,7 @@
       "institution": "Sharif University of Technology",
       "location": "Tehran, Iran",
       "url": "https://en.sharif.ir/",
+      "icon": "fa-solid fa-university",
       "area": "Physics",
       "studyType": "MSc",
       "startDate": "2017",
@@ -53,6 +54,7 @@
       "institution": "Sharif University of Technology",
       "location": "Tehran, Iran",
       "url": "https://en.sharif.ir/",
+      "icon": "fa-solid fa-university",
       "area": "Mechanical Engineering and Physics (dual major)",
       "studyType": "BSc",
       "startDate": "2012",
@@ -83,6 +85,7 @@
   "skills": [
     {
       "name": "Programming & Software",
+      "icon": "fa-solid fa-code",
       "keywords": [
         "Python (NumPy, pandas, scikit-learn, TensorFlow, PyTorch)",
         "R",
@@ -93,6 +96,7 @@
     },
     {
       "name": "Machine Learning & Statistics",
+      "icon": "fa-solid fa-brain",
       "keywords": [
         "Bayesian Inference",
         "Monte Carlo Simulations",
@@ -102,6 +106,7 @@
     },
     {
       "name": "Big Data & High-Performance Computing",
+      "icon": "fa-solid fa-network-wired",
       "keywords": [
         "Parallel Computing (MPI, OpenMP)",
         "Cloud Computing (AWS, Google Cloud)",
@@ -110,6 +115,7 @@
     },
     {
       "name": "Mathematical & Financial Modeling",
+      "icon": "fa-solid fa-square-root-alt",
       "keywords": [
         "Linear Algebra",
         "Stochastic Calculus",
@@ -117,7 +123,7 @@
         "Signal Processing"
       ]
     }
-  ],  
+  ],
   "languages": [
     {
       "language": "English",

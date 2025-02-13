@@ -4,7 +4,7 @@ title: Data Visualization and Computer Graphics
 description: 
 img: assets/img/CG.jpg
 importance: 3
-category: teaching
+category: Teaching
 related_publications: true
 ---
 
