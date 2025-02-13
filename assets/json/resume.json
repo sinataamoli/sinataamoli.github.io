@@ -122,33 +122,23 @@
     {
       "language": "English",
       "fluency": "Fluent",
-      "icon": ""
     },
     {
       "language": "Persian",
       "fluency": "Native speaker",
-      "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Astronomy",
+      "name": "Extragalactic Astronomy",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Large Scale Structures",
+        "Astronomical Imgae Processing",
         "Applications of Machine Learning in Astronomy",
-        "Galaxy Evolution"
+        "Large Scale Structures",
+        "Galaxy Evolution",
+        "High-redshift galaxies"
       ]
-    }
-  ],
-  "projects": [
-    {
-      "name": "Environmental Dependence of Galaxy properties",
-      "summary": "smthg",
-      "highlights": ["Galaxy evolution", "Large Scale Structures"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
