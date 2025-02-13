@@ -21,6 +21,6 @@ Throughout my Ph.D., I have actively contributed to several large collaborations
 
 Beyond research, I have developed a strong foundation in teaching and mentoring. I have been a teaching assistant for multiple courses, including Data Science, Machine Learning, and Data Visualization and Computer Graphics. I have also mentored undergraduate and graduate students through research projects, guiding them in data analysis techniques and machine learning applications in astronomy.
 
-Before my Ph.D., I earned a BSc in Mechanical Engineering and Physics in 2017, followed by an MSc in Physics in 2019, both from Sharif University of Technology.
+Before my Ph.D., I earned a BSc in Mechanical Engineering and Physics in 2017, followed by an MSc in Physics in 2019, both from Sharif University of Technology, Tehran, Iran.
 
 For code-related materials, visit my [github](https://github.com/sinataamoli).

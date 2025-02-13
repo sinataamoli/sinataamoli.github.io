@@ -62,34 +62,15 @@
       "score": "10"
     }
   ],
-  "outreach": [
-    {
-      "organization": "University of California, Riverside",
-      "location": "Riverside, California",
-      "position": "Instructor- Data Analysis",
-      "url": "https://insideucr.ucr.edu/stories/2023/08/14/new-teaching-technology-opens-world-possibilities",
-      "startDate": "2023-06-15",
-      "endDate": "2023-06-20",
-      "summary": "Taught Data Analysis and foundations of Machine Learning to local STEM high school students, through a six-week STEM summer camp, funded through a NASA educational grant"
-    },
-    {
-      "organization": "University of California, Riverside",
-      "location": "Riverside, California",
-      "position": "Instructor- Python Programming",
-      "url": "https://stemsummercamp.ucr.edu/camp",
-      "startDate": "2024-06-24",
-      "endDate": "2024-06-28",
-      "summary": "Taught Python and Introduction to Data Science to local STEM high school students, through a six-week STEM summer camp, funded through a NASA educational grant"
-    }
-  ],
   "skills": [
     {
       "name": "Programming & Software",
       "icon": "fa-solid fa-code",
       "keywords": [
-        "Python (NumPy, pandas, scikit-learn, TensorFlow, PyTorch)",
+        "Python (scikit-learn, TensorFlow, PyTorch)",
         "R",
-        "C++",
+        "C",
+        "Java",
         "SQL",
         "Bash & Git"
       ]
@@ -101,7 +82,8 @@
         "Bayesian Inference",
         "Monte Carlo Simulations",
         "Time-Series Forecasting",
-        "Optimization Algorithms"
+        "Optimization Algorithms",
+        "Dimensionality Reduction Techniques"
       ]
     },
     {
@@ -137,7 +119,7 @@
   "interests": [
     {
       "name": "Extragalactic Astronomy",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-binoculars",
       "keywords": [
         "Astronomical Imgae Processing",
         "Applications of Machine Learning in Astronomy",
