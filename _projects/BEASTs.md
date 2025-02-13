@@ -2,7 +2,7 @@
 layout: page
 title: BEASTs in the Bubbles (JWST-Go2659)
 description: 
-img: assets/img/H20-logo.jpg
+img: assets/img/BEASTs.jpg
 importance: 3
 category: Collaborations
 related_publications: true
