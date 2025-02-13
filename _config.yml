@@ -590,8 +590,5 @@ jekyll_get_json:
 jsonresume:
   - basics
   - education
-  - publications
-  - projects
   - skills
-  - languages
   - interests
