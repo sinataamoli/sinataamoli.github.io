@@ -592,3 +592,13 @@ jsonresume:
   - education
   - skills
   - interests
+
+nav:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects/
+  - title: "CV"
+    url: /assets/pdf/CV.pdf
+  - title: "Contact"
+    url: /contact/
