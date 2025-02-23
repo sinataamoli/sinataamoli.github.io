@@ -59,10 +59,9 @@ nav:
   - title: "Projects"
     url: /projects/
   - title: "CV"
-    url: assets/pdf/example_pdf.pdf
+    url: sinataamoli.github.io/assets/pdf/example_pdf.pdf
   - title: "Contact"
     url: /contact/
-
 
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org
