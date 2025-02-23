@@ -599,6 +599,6 @@ nav:
   - title: "Projects"
     url: /projects/
   - title: "CV"
-    url: /assets/pdf/CV.pdf
+    url: assets/pdf/example_pdf.pdf
   - title: "Contact"
     url: /contact/
