@@ -8,4 +8,3 @@ category: Collaborations
 related_publications: true
 ---
 
-COSMOS-Web
