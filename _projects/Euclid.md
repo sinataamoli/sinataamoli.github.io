@@ -5,6 +5,6 @@ description:
 img: assets/img/euclid.jpg
 importance: 2
 category: Collaborations
-giscus_comments: true
+related_publications: true
 ---
 
