@@ -1,6 +1,6 @@
 ---
 layout: page
-title: COSMOS-Web
+title: COSMOS-Web Large Scale Structures
 description: 
 img: assets/img/cosmosweb.png
 importance: 1

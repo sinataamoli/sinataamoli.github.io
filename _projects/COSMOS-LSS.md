@@ -5,5 +5,6 @@ description:
 img: assets/img/cosmos-lss.png
 importance: 1
 category: Personal
-giscus_comments: true
+related_publications: true
 ---
+[@cosmoslss, @lssmass2024]
