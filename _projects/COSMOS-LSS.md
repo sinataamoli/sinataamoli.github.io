@@ -7,5 +7,3 @@ importance: 1
 category: Personal
 related_publications: true
 ---
-
-related papers: [@cosmoslss, @lssmass2024]
